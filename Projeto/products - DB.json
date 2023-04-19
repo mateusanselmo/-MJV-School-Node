@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "643f3faff978dd088bd45b3b"
+  },
+  "id": 1,
+  "description": "item super interessante",
+  "category": "outros",
+  "price": 100,
+  "quantity": 100,
+  "createdAt": {
+    "$date": "2023-04-19T01:08:12.448Z"
+  },
+  "__v": 0,
+  "name": "Produto 1"
+},{
+  "_id": {
+    "$oid": "643f406068efd97f322345f5"
+  },
+  "id": 2,
+  "description": "item ainda mais interessante e modificado",
+  "category": "quarto",
+  "price": 320,
+  "quantity": 150,
+  "createdAt": {
+    "$date": "2023-04-19T01:12:45.583Z"
+  },
+  "__v": 0,
+  "name": "Produto 2"
+}]

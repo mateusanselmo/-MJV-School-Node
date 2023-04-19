@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "643f450669d199f40d9577b1"
+  },
+  "company": "Produtos SA",
+  "cnpj": {
+    "$numberLong": "165156320320546"
+  },
+  "category": "Tecnologia",
+  "email": "produtos@produtos.com",
+  "site": "produtos3.com.br",
+  "phone": "1121388-9999",
+  "productId": 4,
+  "createdAt": {
+    "$date": "2023-04-19T01:33:30.610Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f453969d199f40d9577b4"
+  },
+  "company": "Produtos mais Interessantes ltda",
+  "cnpj": {
+    "$numberLong": "2341421312321"
+  },
+  "category": "Agropecuária",
+  "email": "produtosinteressantes2@interessante.com",
+  "site": "produtos2.com.br",
+  "phone": "119988-9999",
+  "productId": 2,
+  "createdAt": {
+    "$date": "2023-04-19T01:33:30.610Z"
+  },
+  "__v": 0
+}]
